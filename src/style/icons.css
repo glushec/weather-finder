@@ -1,0 +1,97 @@
+.divche {
+  margin: 0;
+  padding: 0;
+}
+[class="01d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/01d.svg");
+}
+[class="02d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/02d.svg");
+}
+[class="03d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/03d.svg");
+}
+[class="04d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/04d.svg");
+}
+[class="09d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/09d.svg");
+}
+[class="10d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/10d.svg");
+}
+[class="11d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/11d.svg");
+}
+[class="13d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/13d.svg");
+}
+[class="50d"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/50d.svg");
+}
+
+/*night start here*/
+
+[class="01n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/01n.svg");
+}
+[class="02n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/02n.svg");
+}
+[class="03n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/03n.svg");
+}
+[class="04n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/04n.svg");
+}
+[class="09n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/09n.svg");
+}
+[class="10n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/10n.svg");
+}
+[class="11n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/11n.svg");
+}
+[class="13n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/13n.svg");
+}
+[class="50n"] {
+  width: 225px;
+  height: 225px;
+  background-image: url("../img/50n.svg");
+}
